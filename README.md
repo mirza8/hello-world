@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Mirzza Malkocevic
+Mirza Malkocevic
 
 Pokusava da nauci koristiti GitHub i Bitbucket.
